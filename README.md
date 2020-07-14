@@ -25,7 +25,7 @@ This repository contains custom code snippets which you could easily use with co
    `Prefix: rcc`
    
     - [X] Creates class component
-    - [X] Automatically create a state (with dropdown feature to select state type \[\] | '' | null
+    - [X] Automatically create a state (with dropdown feature to select type of state \[ \] | '' | null)
     - [X] Name of the function will be auto generated from FileName
     
 
