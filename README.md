@@ -1,4 +1,4 @@
-# React-Code-Snippets
+# React Code Snippets
 
 This repository contains custom code snippets which you could easily use with code editor of your choice.
 
