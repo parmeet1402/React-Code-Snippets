@@ -10,11 +10,12 @@ This repository contains custom code snippets which you could easily use with co
 ## Snippets
 
 1. Create a react component with redux connect and hooks.
+   
    `Prefix: redux`
    
-    - Creates funtional component
-    - Automatically imports useEffect, useState and connect
-    - Methods like mapStateToProps and mapDisaptchToProps are created to save further time
-    - Component is wrapped with connect HOC
+    - [X] Creates funtional component
+    - [X] Automatically imports useEffect, useState and connect
+    - [X] Methods like mapStateToProps and mapDisaptchToProps are created to save further time
+    - [X] Component is wrapped with connect HOC
     
     
