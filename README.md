@@ -14,6 +14,19 @@ This repository contains custom code snippets which you could easily use with co
     - [X] Methods like mapStateToProps and mapDisaptchToProps are created to save further time
     - [X] Component is wrapped with connect HOC
     
+2. Create a React Functional Component.  
+   `Prefix: rfc`
+   
+    - [X] Creates funtional component
+    - [X] Automatically imports useEffect & useState
+    - [X] Name of the function will be auto generated from FileName
+    
+3. Create a React Class Component.  
+   `Prefix: rcc`
+   
+    - [X] Creates class component
+    - [X] Automatically create a state (with dropdown feature to select state type \[\] | '' | null
+    - [X] Name of the function will be auto generated from FileName
     
 
 
