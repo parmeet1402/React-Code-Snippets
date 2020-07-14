@@ -9,8 +9,7 @@ This repository contains custom code snippets which you could easily use with co
 
 ## Snippets
 
-1. Create a react component with redux connect and hooks.
-   
+1. Create a react component with redux connect and hooks.  
    `Prefix: redux`
    
     - [X] Creates funtional component
