@@ -2,6 +2,8 @@
 
 This repository contains custom code snippets which you could easily use with code editor of your choice.
 
+
+
 ## Snippets
 
 1. Create a react component with redux connect and hooks.  
@@ -13,6 +15,7 @@ This repository contains custom code snippets which you could easily use with co
     - [X] Component is wrapped with connect HOC
     
     
+
 
 ## How to use?
 1. Navigate to `File > Preferences > User Snippets`
