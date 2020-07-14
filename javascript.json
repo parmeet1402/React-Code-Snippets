@@ -1,0 +1,25 @@
+{
+	"Create a react component with redux connect and hooks": {
+		"prefix": "redux",
+		"body": [
+			"import React, {useEffect, useState} from 'react'",
+			"import {connect} from 'react-redux'",
+			"",
+			"const $1 = ({...restProps}) =>{",
+			"return (",
+			"$0",
+			" )",
+			"}",
+			" ",
+			"const mapStateToProps = (state) => ({",
+			"",
+			"});",
+			"const mapDispatchToProps = (dispatch) => ({",
+			"",
+			"});",
+			"export default connect(mapStateToProps, mapDispatchToProps)($1)",
+			"",
+		],
+		"description": "Create a react component with redux connect and hooks"
+	}
+}
