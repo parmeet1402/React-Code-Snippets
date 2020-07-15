@@ -21,5 +21,45 @@
 			"",
 		],
 		"description": "Create a react component with redux connect and hooks"
-	}
+	},
+	"Create a React Functional Component": {
+		"prefix": "rfc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"const $TM_FILENAME_BASE = (${1:props}) => {",
+			"	return (",
+			"		<>",
+			"			${2:<p>$TM_FILENAME_BASE</p>}",
+			"		</>",
+			"	)",
+			"}",
+			"",
+			"export default $TM_FILENAME_BASE"
+		],
+		"description": "React Functional Component"
+	},
+	"Create a React Class Component": {
+		"prefix": "rcc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"class $TM_FILENAME_BASE extends React.Component {",
+			"	state = {",
+			"		${1:$TM_FILENAME_BASE}: ${2|[],'',null|}",
+			"	}",
+			"",
+			"	render() {",
+			"		return (",
+			"			<>",
+			"				${3:<p>$TM_FILENAME_BASE</p>}",
+			"			</>",
+			"		)",
+			"	}",
+			"}",
+			"",
+			"export default $TM_FILENAME_BASE"
+		],
+		"description": "React Class Component"
+	},
 }
