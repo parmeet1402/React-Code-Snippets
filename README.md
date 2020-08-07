@@ -28,7 +28,12 @@ This repository contains custom code snippets which you could easily use with co
     - [X] Automatically create a state (with dropdown feature to select type of state \[ \] | '' | null)
     - [X] Name of the function will be auto generated from FileName
     
-
+    
+4. Create media query.  
+   `Prefix: mmw`
+   
+    - [X] Creates a css media query for screen only
+    
 
 ## How to use?
 1. Navigate to `File > Preferences > User Snippets`
