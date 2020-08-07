@@ -1,0 +1,10 @@
+{
+	"Create a media query": {
+		"prefix": "mmw",
+		"body": [
+			"@media only screen and (max-width: $1px){",
+			"$0",
+			"}"
+		]
+	}
+}
