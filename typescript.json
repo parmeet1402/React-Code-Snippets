@@ -1,0 +1,21 @@
+{
+    "TypeScript React Function Component": {
+		"prefix": "trfc",
+		"body": [
+			"import React from 'react' //remove import if using React V17 or above",
+			"",
+			"interface Props {",
+			"\t",
+			"}",
+			"",
+			"export const ${1:ComponentName}: React.FC<Props> = () => {",
+			"\treturn (",
+			"\t\t<>",
+			"\t\t\t$2",
+			"\t\t</>",
+			"\t)",
+			"}"
+		],
+		"description": "TypeScript React Function Component Snippet"
+	}   
+}
